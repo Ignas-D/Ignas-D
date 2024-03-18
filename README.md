@@ -1,5 +1,5 @@
 ### Hi there, I'm Ignas👋
-[![wakatime](https://wakatime.com/badge/user/018dd941-4f9f-4c0f-a1f6-141dbff5018c.svg)](https://wakatime.com/@018dd941-4f9f-4c0f-a1f6-141dbff5018c)
+<a href="https://wakatime.com/@018dd941-4f9f-4c0f-a1f6-141dbff5018c"><img src="https://wakatime.com/badge/user/018dd941-4f9f-4c0f-a1f6-141dbff5018c.svg" alt="Total time coded since Feb 23 2024" /></a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an amature go kart racer, interested in moving to other racing series!
 
