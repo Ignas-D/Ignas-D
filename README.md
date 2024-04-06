@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=github,js,java,c,css,discord,html,react" />
   </a>
 </p>
-
-<img src="http://147.182.254.93:5000/generate_image?timestamp=<current_timestamp>">
-
+<p align="center">
+  <img src="http://147.182.254.93:5000/generate_image?timestamp=<current_timestamp>">
+</p>
 
