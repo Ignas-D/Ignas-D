@@ -12,6 +12,6 @@
   </a>
 </p>
 
-<a href="http://147.182.254.93:5000/generate_image?timestamp=<current_timestamp>">
+<img src="http://147.182.254.93:5000/generate_image?timestamp=<current_timestamp>">
 
 
