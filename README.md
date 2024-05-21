@@ -12,6 +12,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="http://147.182.254.93:8000/generate-image?theme=dark">
+  <img src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image?theme=dark">
 </p>
 
