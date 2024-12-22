@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an amature go kart racer, interested in moving to other racing series!
 - I work in frontend web development, but looking to become a full-stack developer.
-- Currently, I'm working with a team of developers to make an AI-powered dining hall meal planner for UW-Madison students.
+- Currently, I'm working to establish a website for a small business.
 
 <p align="center">
   <a href="https://skillicons.dev">
