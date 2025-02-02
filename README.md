@@ -4,8 +4,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an amature go kart racer!
 - I work in frontend web development, but looking to become a full-stack developer.
-- Interested in software develpoment or Cybersecurity
-- Currently, I'm working to establish a website for a small business.
+- Interested in software develpoment or Cybersecurity.
+- Currently, I'm working to get my Foundations of Cybersecurity Certificate from Google!
 
 <p align="center">
   <a href="https://skillicons.dev">
