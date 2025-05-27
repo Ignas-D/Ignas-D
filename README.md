@@ -5,6 +5,8 @@
 - ⚡ Fun fact: I am an amature go kart racer!
 - I work in frontend web development, but looking to become a full-stack developer.
 - Interested in software develpoment or Cybersecurity.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ignas-dauksys/)
+
 ___ 
 
 <p align="center">
