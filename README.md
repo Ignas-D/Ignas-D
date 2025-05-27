@@ -15,6 +15,7 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignas-D&layout=compact&theme=vision-friendly-dark)](https://github.com/Ignas-D/github-readme-stats)
 
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
