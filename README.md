@@ -3,7 +3,7 @@
 <a href="https://wakatime.com/@018dd941-4f9f-4c0f-a1f6-141dbff5018c"><img src="https://wakatime.com/badge/user/018dd941-4f9f-4c0f-a1f6-141dbff5018c.svg" alt="Total time coded since Feb 23 2024" /></a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an amature go kart racer!
-- :computer: I work in frontend web development, but looking to become a full-stack developer.
+- :computer: I am a Computer Science and History Major at UW-Madison, Looking to advance in my programming skills to become a Full Stack Developer!
 - 🌐 Interested in software develpoment or Cybersecurity.
 - 🕸️ Currently, I am working on a web app that I will convert into a Swift application to monitor habit tracking!
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ignas-dauksys/)
