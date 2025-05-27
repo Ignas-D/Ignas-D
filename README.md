@@ -9,6 +9,12 @@
 
 ___ 
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Ignas-D&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,js,java,c,css,discord,html,react" />
