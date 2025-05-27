@@ -11,7 +11,7 @@ ___
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Ignas-D&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ignas-D&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
